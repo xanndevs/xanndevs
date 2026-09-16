@@ -73,17 +73,6 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xanndevs/xanndevs/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xanndevs/xanndevs/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xanndevs/xanndevs/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=64&section=header&reversal=false&fontSize=67&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
-</div>
 <div data-importer="socials" align="center">
   <a href="https://xanndev.itch.io" target="_blank">
     <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=%3E%EA%9E%B7%3C&color=ff3c4c&logoColor=&labelColor=000000&style=for-the-badge" height="24" alt="itch logo"  />
@@ -98,6 +87,17 @@
   <a href="https://open.spotify.com/user/21ktprakx4teqa7avtbmbvvja?si=2ad8405322ea4bf0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="24" alt="spotify logo"  />
   </a>
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xanndevs/xanndevs/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xanndevs/xanndevs/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xanndevs/xanndevs/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=64&section=header&reversal=false&fontSize=67&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
 
 ###
