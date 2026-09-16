@@ -84,9 +84,6 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=64&section=header&reversal=false&fontSize=67&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
-
-###
-
 <div data-importer="socials" align="center">
   <a href="https://xanndev.itch.io" target="_blank">
     <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=%3E%EA%9E%B7%3C&color=ff3c4c&logoColor=&labelColor=000000&style=for-the-badge" height="24" alt="itch logo"  />
