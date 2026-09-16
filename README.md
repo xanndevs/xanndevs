@@ -80,7 +80,9 @@
   <a href="https://xanndev.itch.io" target="_blank">
     <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=%3E%EA%9E%B7%3C&color=ff3c4c&logoColor=&labelColor=000000&style=for-the-badge" height="24" alt="itch logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=ffffff&style=for-the-badge" height="24" alt="linkedin logo"  />
+  <a href="https://linkedin.com/in/xanndevs" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=ffffff&style=for-the-badge" height="24" alt="linkedin logo"  />
+  </a>
   <a href="https://discordapp.com/users/395544953310281729" target="_blank">
     <img src="https://img.shields.io/static/v1?message=xanndev&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="discord logo"  />
   </a>
