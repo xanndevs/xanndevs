@@ -71,9 +71,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xanndevs/xanndevs/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xanndevs/xanndevs/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
-
-###
-
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=64&section=header&reversal=false&fontSize=67&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
